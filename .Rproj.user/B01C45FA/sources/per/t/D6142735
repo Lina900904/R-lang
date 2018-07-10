@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530690705065.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4237153932",
+    "id" : "D6142735",
+    "lastKnownWriteTime" : 1530692629,
+    "last_content_update" : 1530692629536,
+    "path" : "C:/Users/1027/Rworkspace/seul/rlang_021.R",
+    "project_path" : "rlang_021.R",
+    "properties" : {
+        "cursorPosition" : "20,34",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
